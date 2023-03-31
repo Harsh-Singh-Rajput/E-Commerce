@@ -6,7 +6,10 @@ This is an e-commerce web application built using React that allows users to bro
 
 ## Example
 
-Here's an example of what the game looks like:
+Here's an example of what the site looks like:
+
+![image](https://user-images.githubusercontent.com/61553586/229182386-9a4ac176-b043-4f7d-87d4-b3e941e16d7a.png)
+
 
 
 ### Demo
