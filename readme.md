@@ -29,7 +29,6 @@ To run the app locally, follow these steps:
 
 - Browse products by category
 - Search for products by name
-- View detailed product information
 - Add products to cart
 - Edit and remove items from cart
 - Checkout and place an order
